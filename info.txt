@@ -1,1 +1,4 @@
 Name: Tle
+Tel: 084123456
+Address: Chonburi
+Birthday: 07/07/1997
